@@ -1,7 +1,10 @@
 ## Hi there 👋, I'm Joseph Lodico
 
 <h2> About me</h2>
-<p>i am a student at Lasalle College, Passionate about video games and Programming, and seeking to improve my skills, In my profile, there are a collection of projects created throughout my semesters at Lassale college</p>
+<p>i am a student at Lasalle College, Passionate about video games and Programming, and seeking to improve my skills. In my profile, there are collection of my projects created throughout my semesters at Lasalle college</p>
+
+Still working on my porfolio Website
+<h2> Here is  my Porfolio: </h2>
 <!--
 **Josephlodico/JosephLodico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
