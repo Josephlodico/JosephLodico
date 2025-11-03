@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I'm Joseph Lodico
 
+<h2> About me</h2>
+<hr>
+<p> </p>
 <!--
 **Josephlodico/JosephLodico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
