@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Joseph Lodico
+## yo there 👋, I'm Joseph 
 
 <h2> About me</h2>
 <p>i am a student at Lasalle College, Passionate about video games and Programming, and seeking to improve my skills. In my profile, there are collection of my projects created throughout my semesters at Lasalle college</p>
