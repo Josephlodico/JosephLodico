@@ -1,13 +1,18 @@
 # Hi there 👋, I'm Joseph 
 ###
 
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
 <p align="left">i am a student at Lasalle College, Passionate about video games and Programming, and seeking to improve my skills. In my profile, there are collection of my projects created throughout my semesters at Lasalle college</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Josephlodico&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Josephlodico&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
 
@@ -67,6 +72,16 @@
   <a href="https://x.com/JosepHLodico" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Josephlodico/Josephlodico/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Josephlodico&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
