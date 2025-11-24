@@ -2,7 +2,7 @@
 
 <h2> About me</h2>
 <p>i am a student at Lasalle College, Passionate about video games and Programming, and seeking to improve my skills. In my profile, there are collection of my projects created throughout my semesters at Lasalle college</p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
+<img alt="My Stats" src="//github-readme-stats.vercel.app/api/top-langs/?username=Joseph"/>
 
 Still working on my porfolio Website
 <h2> Here is  my Porfolio: Pending Porfolio </h2>
