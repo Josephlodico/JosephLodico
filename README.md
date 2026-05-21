@@ -11,6 +11,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/JosephLodico/JosephLodico/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=JosephLodico&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
