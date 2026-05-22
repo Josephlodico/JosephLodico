@@ -19,11 +19,11 @@ My GitHub contains personal projects, programming exercises, and game developmen
 
 ###
 
-<h2 align="left">Here is my Porfolio: https://josephlodico.github.io/JosephL_Website/</h2>
+<h2 align="left">Here is my Portfolio: https://josephlodico.github.io/JosephL_Website/</h2>
 
 ###
 
-<h2 align="left">My Experience/Skills</h2>
+<h2 align="left">Technologies & Tools</h2>
 
 ###
 
