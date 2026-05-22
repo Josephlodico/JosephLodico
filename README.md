@@ -5,7 +5,11 @@
 
 ###
 
-<p align="left">i am a student at Lasalle College, Passionate about video games and Programming, and seeking to improve my skills. In my profile, there are collection of my projects created throughout my semesters at Lasalle college</p>
+<p align="left">I am a graduate in Video Game Programming from LaSalle College currently completing a software development internship at Adda Tech Systems Inc.
+
+I’m passionate about programming, game development, UI systems, and 3D modeling. I primarily work with Unreal Engine 5 using C++ and Blueprints, while also having experience with Unity, C#, HTML/CSS, and Git/GitHub.
+
+My GitHub contains personal projects, programming exercises, and game development work that reflect my continuous learning and growth as a developer.</p>
 
 ###
 
